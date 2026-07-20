@@ -1,0 +1,6 @@
+Image: brain2.png
+
+Gaussian  PSNR: 26.3614  MSE: 0.002311
+Median    PSNR: 22.1849  MSE: 0.006047
+Wavelet   PSNR: 23.0912  MSE: 0.004908
+NLM       PSNR: 24.9854  MSE: 0.003173
